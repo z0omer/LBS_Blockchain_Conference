@@ -1,0 +1,163 @@
+{
+  "Header": {
+    "title": "LBS Blockchain Conference 2022",
+    "paragraph": "LBS Blockchain Society brings to you Blockchain Conference 2022!"
+  },
+  "About": {
+    "paragraph": "LBS Blockchain Society is a space to bring together bright minds and shape the development of internet of value, the web 3.0",
+    "Why": [
+      "Organising Events",
+      "London Blockchain DAO",
+      "Insights on Crypto Trading",
+      "Blockchain Research"
+    ],
+    "Why2": [
+      "Connect with Blockchain firms",
+      "Blockchain 101 sessions",
+      "Marketing",
+      "Foster a blockchain community"
+    ]
+  },
+  "Partners": [
+    {
+      "title": "Mantra DAO",
+      "img": "img/portfolio/01.jpg"
+    },
+    {
+      "title": "Polygon",
+      "img": "img/portfolio/02.jpg"
+    },
+    {
+      "title": "Maker DAO",
+      "img": "img/portfolio/03.jpg"
+    },
+    {
+      "title": "Jump Crypto",
+      "img": "img/portfolio/04.jpg"
+    },
+    {
+      "title": "Antler",
+      "img": "img/portfolio/05.jpg"
+    },
+    {
+      "title": "Mantra DAO",
+      "img": "img/portfolio/01.jpg"
+    }
+  ],
+  "Speakers": [
+    {
+      "img": "img/speakers/JohnPatrick.jpg",
+      "name": "John Patrick Mullin",
+      "text": "Mantra DAO"
+    },
+    {
+      "img": "img/speakers/WillCorkin.jpg",
+      "name": "Will Corkin",
+      "text": "Mantra DAO"
+    },
+    {
+      "img": "img/speakers/JohnPatrick.jpg",
+      "name": "John Patrick Mullin",
+      "text": "Mantra DAO"
+    },
+    {
+      "img": "img/speakers/WillCorkin.jpg",
+      "name": "Will Corkin",
+      "text": "Mantra DAO"
+    },
+    {
+      "img": "img/speakers/JohnPatrick.jpg",
+      "name": "John Patrick Mullin",
+      "text": "Mantra DAO"
+    },
+    {
+      "img": "img/speakers/WillCorkin.jpg",
+      "name": "Will Corkin",
+      "text": "Mantra DAO"
+    }
+  ],
+  "Alumni": [
+    {
+      "img": "img/alumni/01.jpg",
+      "text": "MBA 2020",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/alumni/01.jpg",
+      "text": "MBA 2020",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/alumni/01.jpg",
+      "text": "MBA 2020",
+      "name": "John Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Clemens Scherf",
+      "job": "President"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Max Bräuninger",
+      "job": "Vice President"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Carlos Saavedra",
+      "job": "Treasurer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Ishita Samaddar",
+      "job": "Conference Lead"
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Neha Bhasin",
+      "job": "Marketing Lead"
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Pushpendra Dwivedi",
+      "job": "Events Lead"
+    },
+    {
+      "img": "img/team/07.jpg",
+      "name": "Alexis Kok",
+      "job": "Partnerships Lead"
+    }
+
+  ],
+  "Contact": {
+    "address": "London Business School Regent's Park, London NW1 4SA ",
+    "phone": "+44 020 7000 7000",
+    "email": "lbsblockchain@protonmail.com",
+    "twitter": "https://twitter.com/lbsblockchain",
+    "linkedIn": "https://www.linkedin.com/company/lbs-blockchain-association"
+  },
+  "Agenda": [
+    {
+      "img": "img/agenda/01.jpg",
+      "title": "Day 1: 26th April",
+      "text": "Venture Capital and Fundraising"
+    },
+    {
+      "img": "img/agenda/02.jpg",
+      "title": "Day 2: 27th April",
+      "text": "Decentralised Finance"
+    },
+    {
+      "img": "img/agenda/03.jpg",
+      "title": "Day 3: 28th April",
+      "text": "Gaming, NFTs and Metaverse"
+    },
+    {
+      "img": "img/agenda/04.jpg",
+      "title": "Day 4: 29th April",
+      "text": "Networking and Career Fair"
+    }
+  ]
+}
