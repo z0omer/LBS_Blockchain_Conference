@@ -48,32 +48,38 @@
     {
       "img": "img/speakers/JohnPatrick.jpg",
       "name": "John Patrick Mullin",
-      "text": "Mantra DAO"
+      "text": "Mantra DAO",
+      "title": "Bio"
     },
     {
       "img": "img/speakers/WillCorkin.jpg",
       "name": "Will Corkin",
-      "text": "Mantra DAO"
+      "text": "Mantra DAO",
+      "title": "Bio"
     },
     {
       "img": "img/speakers/JohnPatrick.jpg",
       "name": "John Patrick Mullin",
-      "text": "Mantra DAO"
+      "text": "Mantra DAO",
+      "title": "Bio"
     },
     {
       "img": "img/speakers/WillCorkin.jpg",
       "name": "Will Corkin",
-      "text": "Mantra DAO"
+      "text": "Mantra DAO",
+      "title": "Bio"
     },
     {
       "img": "img/speakers/JohnPatrick.jpg",
       "name": "John Patrick Mullin",
-      "text": "Mantra DAO"
+      "text": "Mantra DAO",
+      "title": "Bio"
     },
     {
       "img": "img/speakers/WillCorkin.jpg",
       "name": "Will Corkin",
-      "text": "Mantra DAO"
+      "text": "Mantra DAO",
+      "title": "Bio"
     }
   ],
   "Alumni": [
@@ -97,37 +103,44 @@
     {
       "img": "img/team/01.jpg",
       "name": "Clemens Scherf",
-      "job": "President"
+      "job": "President",
+      "title": "Bio"
     },
     {
       "img": "img/team/02.jpg",
       "name": "Max Bräuninger",
-      "job": "Vice President"
+      "job": "Vice President",
+      "title": "Bio"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Carlos Saavedra",
-      "job": "Treasurer"
+      "job": "Treasurer",
+      "title": "Bio"
     },
     {
       "img": "img/team/04.jpg",
       "name": "Ishita Samaddar",
-      "job": "Conference Lead"
+      "job": "Conference Lead",
+      "title": "Bio"
     },
     {
       "img": "img/team/05.jpg",
       "name": "Neha Bhasin",
-      "job": "Marketing Lead"
+      "job": "Marketing Lead",
+      "title": "Bio"
     },
     {
       "img": "img/team/06.jpg",
       "name": "Pushpendra Dwivedi",
-      "job": "Events Lead"
+      "job": "Events Lead",
+      "title": "Bio"
     },
     {
       "img": "img/team/07.jpg",
       "name": "Alexis Kok",
-      "job": "Partnerships Lead"
+      "job": "Partnerships Lead",
+      "title": "Bio"
     }
 
   ],

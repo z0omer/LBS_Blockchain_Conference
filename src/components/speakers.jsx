@@ -1,3 +1,5 @@
+import { Image } from "./image";
+
 export const Speakers = (props) => {
   return (
     <div id='speakers' className='text-center'>
@@ -13,7 +15,7 @@ export const Speakers = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-4'>
                   <div className='speakers-image'>
-                  <img src={d.img} />
+                  <Image title={d.title} largeImage={d.img} smallImage={d.img} />
                   </div>                  
                   <div className='service-desc'>
                     <h3>{d.name}</h3>
