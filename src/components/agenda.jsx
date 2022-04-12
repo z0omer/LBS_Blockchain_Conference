@@ -17,6 +17,7 @@ export const Agenda = (props) => {
                   <p>{d.event1}</p>
                   <p>{d.event2}</p>
                   <p>{d.event3}</p>
+                  <p>{d.event4}</p>
                 </div>
               ))
             : 'Loading...'}
