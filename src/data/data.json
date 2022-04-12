@@ -155,22 +155,37 @@
     {
       "img": "img/agenda/01.jpg",
       "title": "Day 1: 26th April",
-      "text": "Venture Capital and Fundraising"
+      "text": "Venture Capital and Fundraising",
+      "event1": "11AM- 12PM: My journey from Web2 and Web3 - Keynote",
+      "event2": "12PM - 1PM: Alumni in VC investing in Defi or Crypto projects",
+      "event3": "1PM-2PM: Networking Lunch"
     },
     {
       "img": "img/agenda/02.jpg",
       "title": "Day 2: 27th April",
-      "text": "Decentralised Finance"
+      "text": "Decentralised Finance",
+      "event1": "11AM- 12PM: My journey from Web2 and Web3 - Keynote",
+      "event2": "12PM - 1PM: Alumni in VC investing in Defi or Crypto projects",
+      "event3": "1PM-2PM: Networking Lunch"
     },
     {
       "img": "img/agenda/03.jpg",
       "title": "Day 3: 28th April",
-      "text": "Gaming, NFTs and Metaverse"
+      "text": "Gaming, NFTs and Metaverse",
+      "event1": "11AM- 12PM: My journey from Web2 and Web3 - Keynote",
+      "event2": "12PM - 1PM: Alumni in VC investing in Defi or Crypto projects",
+      "event3": "1PM-2PM: Networking Lunch"
     },
     {
       "img": "img/agenda/04.jpg",
       "title": "Day 4: 29th April",
-      "text": "Networking and Career Fair"
+      "text": "Networking and Career Fair",
+      "event1": "11AM- 12PM: My journey from Web2 and Web3 - Keynote",
+      "event2": "12PM - 1PM: Alumni in VC investing in Defi or Crypto projects",
+      "event3": "1PM-2PM: Networking Lunch"
     }
-  ]
+  ],
+  "Location": {
+    "paragraph": "The conference will be held from Sussex Place campus, LBS. If you have any questions about finding the location, please email us at lbsblockchain@protonmail.com"
+  }
 }

@@ -14,6 +14,9 @@ export const Agenda = (props) => {
                   </div>
                   <h3>{d.title}</h3>
                   <p>{d.text}</p>
+                  <p>{d.event1}</p>
+                  <p>{d.event2}</p>
+                  <p>{d.event3}</p>
                 </div>
               ))
             : 'Loading...'}
