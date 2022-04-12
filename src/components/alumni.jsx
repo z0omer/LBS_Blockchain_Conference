@@ -11,7 +11,7 @@ export const Alumni = (props) => {
                 <div key={`${d.name}-${i}`} className='col-md-4'>
                   <div className='alumni'>
                     <div className='alumni-image'>
-                      <img src={d.img} alt="alumni image"/>
+                      <img src={d.img} alt="alumni details"/>
                     </div>
                     <div className='alumni-content'>
                     <div className='alumni-meta'> {d.name} </div>
