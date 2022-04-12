@@ -84,17 +84,17 @@
   ],
   "Alumni": [
     {
-      "img": "img/alumni/01.jpg",
+      "img": "img/alumni/example.jpg",
       "text": "MBA 2020",
       "name": "John Doe"
     },
     {
-      "img": "img/alumni/01.jpg",
+      "img": "img/alumni/example.jpg",
       "text": "MBA 2020",
       "name": "John Doe"
     },
     {
-      "img": "img/alumni/01.jpg",
+      "img": "img/alumni/example.jpg",
       "text": "MBA 2020",
       "name": "John Doe"
     }
@@ -152,7 +152,7 @@
   },
   "Agenda": [
     {
-      "img": "img/agenda/01.jpg",
+      "img": "img/agenda/day1.jpg",
       "title": "Day 1: 26th April",
       "text": "Venture Capital and Fundraising",
       "event1": "11AM: My journey from Web2 and Web3 - Keynote",
@@ -161,7 +161,7 @@
       "event4": "8PM: ICO"
     },
     {
-      "img": "img/agenda/02.jpg",
+      "img": "img/agenda/day2.jpg",
       "title": "Day 2: 27th April",
       "text": "Decentralised Finance",
       "event1": "10AM: How to Invest in Crypto - Workshop",
@@ -170,7 +170,7 @@
       "event4": "7PM: Regulatory topics - fireside with two"
     },
     {
-      "img": "img/agenda/03.jpg",
+      "img": "img/agenda/day3.jpg",
       "title": "Day 3: 28th April",
       "text": "Gaming, NFTs and Metaverse",
       "event1": "10AM: What is the Metaverse and What are NFTs",
