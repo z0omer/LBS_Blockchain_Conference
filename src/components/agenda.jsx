@@ -10,7 +10,7 @@ export const Agenda = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.title}-${i}`} className='col-xs-8 col-md-4'>
                   <div className='agenda-image'>
-                  <img src={d.img} />
+                  <img src={d.img} alt="Agenda item"/>
                   </div>
                   <h3>{d.title}</h3>
                   <p>{d.text}</p>
