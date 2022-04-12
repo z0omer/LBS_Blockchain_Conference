@@ -41,8 +41,7 @@ export const Contact = (props) => {
               <div className='section-title'>
                 <h2>Get In Touch</h2>
                 <p>
-                  Please fill out the form below to send us an email and we will
-                  get back to you as soon as possible.
+                Please fill out the form below and we’ll reach out as soon as possible
                 </p>
               </div>
               <form name='sentMessage' validate onSubmit={handleSubmit}>
@@ -103,14 +102,6 @@ export const Contact = (props) => {
                   <i className='fa fa-map-marker'></i> Address
                 </span>
                 {props.data ? props.data.address : 'loading'}
-              </p>
-            </div>
-            <div className='contact-item'>
-              <p>
-                <span>
-                  <i className='fa fa-phone'></i> Phone
-                </span>{' '}
-                {props.data ? props.data.phone : 'loading'}
               </p>
             </div>
             <div className='contact-item'>

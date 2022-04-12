@@ -231,6 +231,11 @@ a:focus,
   font-weight: 800;
   color: #5ca9fb;
 }
+.intro h4 {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  font-style: italic;
+}
 .intro p {
   color: #fff;
   font-size: 22px;
@@ -255,7 +260,6 @@ header .intro-text {
   width: 200px;
   height: 200px;
   position: relative;
-  border-radius: 50%;
   color: #fff;
   margin-left: 40px;
   margin-bottom: 20px;
@@ -308,7 +312,7 @@ header .intro-text {
   padding-right: 8px;
 }
 #about img {
-  width: 520px;
+  width: 420px;
   margin-top: 10px;
   background: #fff;
   border-right: 0;
