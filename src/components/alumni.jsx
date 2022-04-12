@@ -10,9 +10,9 @@ export const Alumni = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-4'>
                   <div className='alumni'>
-                    <div className='alumni-image'>
+                    {/* <div className='alumni-image'>
                       <img src={d.img} alt="alumni details"/>
-                    </div>
+                    </div> */}
                     <div className='alumni-content'>
                     <div className='alumni-meta'> {d.name} </div>
                       <p>{d.text}</p>
