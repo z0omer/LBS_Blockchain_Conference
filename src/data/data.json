@@ -21,27 +21,27 @@
   "Partners": [
     {
       "title": "Mantra DAO",
-      "img": "img/portfolio/01.jpg"
-    },
-    {
-      "title": "Polygon",
-      "img": "img/portfolio/02.jpg"
+      "img": "img/portfolio/mantraDao.jpg"
     },
     {
       "title": "Maker DAO",
-      "img": "img/portfolio/03.jpg"
+      "img": "img/portfolio/makerDao.jpg"
     },
     {
       "title": "Jump Crypto",
-      "img": "img/portfolio/04.jpg"
+      "img": "img/portfolio/jumpCrypto.jpg"
     },
     {
       "title": "Antler",
-      "img": "img/portfolio/05.jpg"
+      "img": "img/portfolio/antler.jpg"
     },
     {
       "title": "Mantra DAO",
-      "img": "img/portfolio/01.jpg"
+      "img": "img/portfolio/mantraDao.jpg"
+    },
+    {
+      "title": "Mantra DAO",
+      "img": "img/portfolio/mantraDao.jpg"
     }
   ],
   "Speakers": [
@@ -58,9 +58,9 @@
       "title": "Bio"
     },
     {
-      "img": "img/speakers/JohnPatrick.jpg",
-      "name": "John Patrick Mullin",
-      "text": "Mantra DAO",
+      "img": "img/speakers/MariekeFlament.jpg",
+      "name": "Marieke Flament",
+      "text": "CEO NEAR Foundation",
       "title": "Bio"
     },
     {
@@ -142,7 +142,6 @@
       "job": "Partnerships Lead",
       "title": "Bio"
     }
-
   ],
   "Contact": {
     "address": "London Business School Regent's Park, London NW1 4SA ",
@@ -177,11 +176,6 @@
       "event1": "10AM: What is the Metaverse and What are NFTs",
       "event2": "11AM: Tokenomics - What is it and why it matters (workshop)",
       "event3": "1PM: Networking Lunch"
-    },
-    {
-      "img": "img/agenda/04.jpg",
-      "title": "Day 4: 29th April",
-      "text": "Networking and Career Fair"
     }
   ],
   "Location": {
