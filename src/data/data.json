@@ -64,46 +64,70 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/Clemens.jpg",
       "name": "Clemens Scherf",
-      "job": "President",
+      "job": "MAM 2022",
       "title": "Bio"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/Max.jpg",
       "name": "Max Bräuninger",
-      "job": "Vice President",
+      "job": "MBA 2023",
       "title": "Bio"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/Carlos.jpg",
       "name": "Carlos Saavedra",
-      "job": "Treasurer",
+      "job": "MiF 2022",
       "title": "Bio"
     },
     {
-      "img": "img/team/04.jpg",
+      "img": "img/team/Ishita.jpg",
       "name": "Ishita Samaddar",
-      "job": "Conference Lead",
+      "job": "MBA 2022",
       "title": "Bio"
     },
     {
-      "img": "img/team/05.jpg",
+      "img": "img/team/Neha.jpg",
       "name": "Neha Bhasin",
-      "job": "Marketing Lead",
+      "job": "MBA 2023",
       "title": "Bio"
     },
     {
-      "img": "img/team/06.jpg",
+      "img": "img/team/Pushpendra.jpg",
       "name": "Pushpendra Dwivedi",
-      "job": "Events Lead",
+      "job": "EMBA 2022",
       "title": "Bio"
     },
     {
-      "img": "img/team/07.jpg",
+      "img": "img/team/Alexis.jpg",
       "name": "Alexis Kok",
-      "job": "Partnerships Lead",
+      "job": "MIM 2022",
       "title": "Bio"
+    },
+    {
+      "img": "img/team/Daria.jpg",
+      "name": "Daria Saji",
+      "job": "MIM 2022",
+      "title": "Daria is the Technology Lead at LBS Blockchain Society. She worked as a Software Developer for Citi Bank before joining London Business School"
+    },
+    {
+      "img": "img/team/Bo.jpg",
+      "name": "BO Zhang",
+      "job": "MBA 2023",
+      "title": "Bo has 8 years of experience in investments, portfolio management, and research. He is currently Head of Investments at Arc St Capital and Co-Head of Research of the LBS Blockchain Society. Prior to this, he was a junior portfolio manager on the multi-asset team within JP Morgan’s Chief Investment Office in London covering equities, fixed income, currencies and commodities. This team was ranked #1 globally in Research Allocation and Investment Management by Euromoney in 2020 and 2019. Bo started his career in New York as a Client Portfolio Manager focusing on UHNW and institutional clients within JP Morgan’s Private Bank"
+    },
+    {
+      "img": "img/team/Kat.jpg",
+      "name": "Katharina Fore",
+      "job": "MBA 2022",
+      "title": "Bio"
+    },
+    {
+      "img": "img/team/Akshat.jpg",
+      "name": "Akshat Kacheria",
+      "job": "MAM 2022",
+      "title": "Akshat is a Strategy Consultant and Software Engineer. He worked for Barclays before joining London Business School and is currently working in Strategy at Fayre Laboratories (NFT Marketplace for brands)"
     }
   ],
   "Contact": {

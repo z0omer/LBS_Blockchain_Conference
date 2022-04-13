@@ -394,7 +394,7 @@ header .intro-text {
     rgba(99, 114, 255, 0.8) 0%,
     rgba(92, 169, 251, 0.8) 100%
   );
-  padding: 30% 0 0;
+  /* padding: 30% 0 0; */
   height: 100%;
   width: 100%;
   opacity: 0;
@@ -406,10 +406,10 @@ header .intro-text {
   -webkit-transform: translateY(100%);
   transform: translateY(100%);
   transition: all 0.3s;
-  font-size: 18px;
+  font-size: 14px;
   letter-spacing: 1px;
   font-weight: 500;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 .hover-bg:hover .hover-text > h4 {
   opacity: 1;
