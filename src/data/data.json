@@ -45,14 +45,32 @@
     {
       "img": "img/speakers/JohnPatrick.jpg",
       "name": "John Patrick Mullin",
-      "text": "Mantra DAO",
-      "title": "Bio"
+      "text": "MantraDAO",
+      "title": "CEO and Co-Founder of MantraDAO & soma.finance "
     },
     {
       "img": "img/speakers/WillCorkin.jpg",
       "name": "Will Corkin",
-      "text": "Mantra DAO",
-      "title": "Bio"
+      "text": "MantraDAO",
+      "title": "Co-Founder and Council Member, MantraDAO & soma.finance"
+    },
+    {
+      "img": "img/speakers/Luca.jpg",
+      "name": "Luca Prosperi ",
+      "text": "MakerDAO",
+      "title": "Lending Oversight, MakerDAO "
+    },
+    {
+      "img": "img/speakers/Alex.jpg",
+      "name": "Alex Ryvkin",
+      "text": "Copper",
+      "title": "CPO Copper"
+    },
+    {
+      "img": "img/speakers/Gary.jpg",
+      "name": "Gary Dushnitsky ",
+      "text": "Associate Professor, LBS",
+      "title": "Associate Professor, LBS Strategy & Entrepreneurship "
     }
   ],
   "Alumni": [
