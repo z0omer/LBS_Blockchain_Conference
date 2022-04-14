@@ -41,7 +41,7 @@ export const Contact = (props) => {
               <div className='section-title'>
                 <h2>Get In Touch</h2>
                 <p>
-                Please fill out the form below and we’ll reach out as soon as possible
+                  Please fill out the form below and we’ll reach out as soon as possible
                 </p>
               </div>
               <form name='sentMessage' validate onSubmit={handleSubmit}>
@@ -111,6 +111,18 @@ export const Contact = (props) => {
                 </span>{' '}
                 {props.data ? props.data.email : 'loading'}
               </p>
+              <p>
+                <span>
+                  <i className='fa fa-globe'></i> Website
+                </span>{' '}
+                {props.data ? props.data.website : 'loading'}
+              </p>
+              <p>
+                <span>
+                  <i className='fa fa-phone'></i> Telegram
+                </span>{' '}
+                {props.data ? props.data.telegram : 'loading'}
+              </p>
             </div>
           </div>
           <div className='col-md-12'>
@@ -118,13 +130,23 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
+                    <a href={props.data ? props.data.twitter : '/'} target="_blank">
                       <i className='fa fa-twitter'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.linkedIn : '/'}>
+                    <a href={props.data ? props.data.instagram : '/'} target="_blank">
+                      <i className='fa fa-instagram'></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href={props.data ? props.data.linkedIn : '/'} target="_blank">
                       <i className='fa fa-linkedin'></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href={props.data ? props.data.medium : '/'} target="_blank">
+                      <i className='fa fa-medium'></i>
                     </a>
                   </li>
                 </ul>

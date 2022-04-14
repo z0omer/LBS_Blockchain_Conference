@@ -635,6 +635,25 @@ label {
 #contact .contact-item i.fa {
   margin-right: 10px;
 }
+
+#contact .website {
+  margin: 20px 0;
+}
+#contact .website span {
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 10px;
+  display: block;
+}
+#contact .website i.mainWeb {
+  margin-right: 10px;
+  color: white;
+  font-weight: bold;
+}
+#contact .website i.telegram {
+  margin-right: 10px;
+  color: white;
+  font-weight: bold;
+}
 #contact .social {
   border-top: 1px solid rgba(255, 255, 255, 0.15);
   padding-top: 50px;
