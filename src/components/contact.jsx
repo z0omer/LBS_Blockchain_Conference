@@ -113,15 +113,15 @@ export const Contact = (props) => {
               </p>
               <p>
                 <span>
-                  <i className='fa fa-globe'></i> Website
+                  <i className='fa fa-globe'></i>
+                  <a href={props.data ? props.data.website : '/'} target="_blank" rel="noreferrer">Website</a>
                 </span>{' '}
-                {props.data ? props.data.website : 'loading'}
               </p>
               <p>
                 <span>
-                  <i className='fa fa-phone'></i> Telegram
+                  <i className='fa fa-phone'></i>
+                  <a href={props.data ? props.data.telegram : '/'} target="_blank" rel="noreferrer">Telegram</a>
                 </span>{' '}
-                {props.data ? props.data.telegram : 'loading'}
               </p>
             </div>
           </div>
@@ -130,22 +130,22 @@ export const Contact = (props) => {
               <div className='social'>
                 <ul>
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'} target="_blank">
+                    <a href={props.data ? props.data.twitter : '/'} target="_blank" rel="noreferrer">
                       <i className='fa fa-twitter'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.instagram : '/'} target="_blank">
+                    <a href={props.data ? props.data.instagram : '/'} target="_blank" rel="noreferrer">
                       <i className='fa fa-instagram'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.linkedIn : '/'} target="_blank">
+                    <a href={props.data ? props.data.linkedIn : '/'} target="_blank" rel="noreferrer">
                       <i className='fa fa-linkedin'></i>
                     </a>
                   </li>
                   <li>
-                    <a href={props.data ? props.data.medium : '/'} target="_blank">
+                    <a href={props.data ? props.data.medium : '/'} target="_blank" rel="noreferrer">
                       <i className='fa fa-medium'></i>
                     </a>
                   </li>
