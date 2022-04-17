@@ -251,6 +251,7 @@ header .intro-text {
 }
 /* Agenda Section */
 #agenda {
+  overflow-y: auto;
   background: #f6f6f6;
   margin-bottom: 20px;
 }
@@ -277,6 +278,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
+  overflow-y: auto;
   padding: 100px 0;
 }
 #about h3 {
@@ -324,6 +326,7 @@ header .intro-text {
 }
 /* Speakers Section */
 #speakers {
+  overflow-y: auto;
   padding: 100px 0;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: #fff;
@@ -373,6 +376,7 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
+  overflow-y: auto;
   padding: 100px 0;
 }
 .portfolio-item {
@@ -423,6 +427,7 @@ header .intro-text {
 }
 /* Location Section */
 #location {
+  overflow-y: auto;
   padding: 100px 0;
 }
 #location h3 {
@@ -470,6 +475,7 @@ header .intro-text {
 }
 /* Alumni Section */
 #alumni {
+  overflow-y: auto;
   padding: 100px 0;
   background: #f6f6f6;
 }
@@ -517,6 +523,7 @@ header .intro-text {
 }
 /* Team Section */
 #team {
+  overflow-y: auto;
   padding: 100px 0;
 }
 #team h4 {
@@ -535,6 +542,7 @@ header .intro-text {
 }
 /* Contact Section */
 #contact {
+  overflow-y: auto;
   padding: 100px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: rgba(255, 255, 255, 0.75);
