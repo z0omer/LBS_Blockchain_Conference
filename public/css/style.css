@@ -251,7 +251,7 @@ header .intro-text {
 }
 /* Agenda Section */
 #agenda {
-  padding-top: 150px;
+  padding-top: 100px;
   overflow-y: auto;
   background: #f6f6f6;
   margin-bottom: 20px;
@@ -279,7 +279,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-  padding-top: 150px;
+  padding-top: 120px;
   overflow-y: auto;
 }
 #about h3 {
@@ -328,7 +328,7 @@ header .intro-text {
 /* Speakers Section */
 #speakers {
   overflow-y: auto;
-  padding: 150px 0;
+  padding: 110px 0;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: #fff;
 }
@@ -429,7 +429,7 @@ header .intro-text {
 /* Location Section */
 #location {
   overflow-y: auto;
-  padding: 150px 0;
+  padding: 110px 0;
 }
 #location h3 {
   font-size: 22px;
@@ -525,7 +525,7 @@ header .intro-text {
 /* Team Section */
 #team {
   overflow-y: auto;
-  padding: 150px 0;
+  padding: 110px 0;
 }
 #team h4 {
   margin: 5px 0;
@@ -544,7 +544,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   overflow-y: auto;
-  padding: 150px 0 60px;
+  padding: 110px 0 60px;
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: rgba(255, 255, 255, 0.75);
 }
