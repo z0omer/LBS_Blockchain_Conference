@@ -17,127 +17,118 @@
       "Networking & Career Development "
     ]
   },
-  "Partners": [
-    {
-      "title": "MANTRADAO",
-      "img": "img/portfolio/mantraDao.jpg"
-    },
-    {
-      "title": "Maker DAO",
-      "img": "img/portfolio/makerDao.jpg"
-    },
-    {
-      "title": "Jump Crypto",
-      "img": "img/portfolio/jumpCrypto.jpg"
-    },
-    {
-      "title": "Antler",
-      "img": "img/portfolio/antler.jpg"
-    }
-  ],
   "Speakers": [
     {
       "img": "img/speakers/MariekeFlament.jpg",
       "name": "Marieke Flament",
       "text": "CEO NEAR Foundation",
+      "linkedIn": "https://www.linkedin.com/in/mariekeflament/",
       "title": "KEYNOTE SPEAKER"
     },
     {
       "img": "img/speakers/JohnPatrick.jpg",
       "name": "John Patrick Mullin",
       "text": "MANTRADAO",
+      "linkedIn": "https://www.linkedin.com/in/john-patrick-mullin/",
       "title": "CEO and Co-Founder of MANTRADAO & soma.finance "
     },
     {
       "img": "img/speakers/WillCorkin.jpg",
       "name": "Will Corkin",
       "text": "MANTRADAO",
+      "linkedIn": "https://www.linkedin.com/in/will-corkin/",
       "title": "Co-Founder and Council Member, MANTRADAO & soma.finance"
     },
     {
       "img": "img/speakers/Luca.jpg",
       "name": "Luca Prosperi ",
       "text": "MakerDAO",
+      "linkedIn": "https://www.linkedin.com/in/lucaprosperi/",
       "title": "Lending Oversight, MakerDAO "
     },
     {
       "img": "img/speakers/Alex.jpg",
       "name": "Alex Ryvkin",
       "text": "Copper",
+      "linkedIn": "https://www.linkedin.com/in/alexryvkin/",
       "title": "CPO Copper"
     },
     {
       "img": "img/speakers/Gary.jpg",
       "name": "Gary Dushnitsky ",
       "text": "Associate Professor, LBS",
+      "linkedIn": "https://www.linkedin.com/in/gary-dushnitsky-227ab62/",
       "title": "Associate Professor, LBS Strategy & Entrepreneurship "
     },
     {
       "img": "img/speakers/Altan.jpg",
       "name": "Altan Tutar",
       "text": "Antler",
+      "linkedIn": "https://www.linkedin.com/in/tutaraltan/",
       "title": ""
     },
     {
       "img": "img/speakers/David.jpg",
       "name": "David Mirzazadeh ",
       "text": "Picus Capital",
+      "linkedIn": "https://www.linkedin.com/in/dmirzazadeh/",
       "title": ""
     },
     {
       "img": "img/speakers/Richard.jpg",
       "name": "Richard Muirhead ",
       "text": "Fabric Ventures",
+      "linkedIn": "https://www.linkedin.com/in/richardmuirhead/",
       "title": "Managing Partner, Fabric Ventures"
     },
     {
       "img": "img/speakers/Amit.jpg",
       "name": "Amit Chaudhary",
       "text": "Polygon",
+      "linkedIn": "https://www.linkedin.com/in/amitcha/",
       "title": "Head of DeFi Research, Polygon Technology"
     },
     {
       "img": "img/speakers/John.jpg",
       "name": "John Connolly ",
       "text": "Elliptic",
+      "linkedIn": "https://www.linkedin.com/in/john-connolly-495bb61a/",
       "title": ""
     },
     {
       "img": "img/speakers/Tahem.jpg",
       "name": "Tahem Veer Verma",
       "text": "mesha",
+      "linkedIn": "https://www.linkedin.com/in/tahem/",
       "title": "Co-Founder, mesha"
     },
     {
       "img": "img/speakers/Cong.jpg",
       "name": "Cong Le",
       "text": "Blockchain Monster Hunt ",
+      "linkedIn": "https://www.linkedin.com/in/cong-le-a932707b/",
       "title": ""
     },
     {
       "img": "img/speakers/Boris.jpg",
       "name": "Boris Spremo ",
       "text": "Fayre",
+      "linkedIn": "https://www.linkedin.com/in/bspremo/",
       "title": "Operations Lead, Fayre"
     },
     {
       "img": "img/speakers/Eduardo.jpg",
       "name": "Eduardo Vega-Patiño ",
       "text": "Token Engineering Commons ",
+      "linkedIn": "https://www.linkedin.com/in/eduardovegap/",
       "title": ""
     },
     {
       "img": "img/speakers/Moritz.jpg",
       "name": "Moritz Seibert ",
       "text": "Exponential Age Asset Management ",
+      "linkedIn": "https://www.linkedin.com/in/mseibert/",
       "title": "CIO at Exponential Age Asset Management "
-    }
-  ],
-  "Alumni": [
-    {
-      "img": "",
-      "text": "",
-      "name": ""
     }
   ],
   "Team": [
@@ -172,15 +163,15 @@
       "title": "Bio"
     },
     {
+      "img": "img/team/Jose.jpg",
+      "name": "José Tomás Sabaté",
+      "job": "MBA 2023",
+      "title": "Industrial Engineer with an Information Technologies Major.Worked for seven years in Product Development and Strategy within the Financial Services industry before joining LBS MBA.Distributed Ledger Technologies Enthusiast."
+    },
+    {
       "img": "img/team/Pushpendra.jpg",
       "name": "Pushpendra Dwivedi",
       "job": "EMBA 2022",
-      "title": "Bio"
-    },
-    {
-      "img": "img/team/Alexis.jpg",
-      "name": "Alexis Kok",
-      "job": "MIM 2022",
       "title": "Bio"
     },
     {
@@ -196,6 +187,24 @@
       "title": "Bo has 8 years of experience in investments, portfolio management, and research. He is currently Head of Investments at Arc St Capital and Co-Head of Research of the LBS Blockchain Society. Prior to this, he was a junior portfolio manager on the multi-asset team within JP Morgan’s Chief Investment Office in London covering equities, fixed income, currencies and commodities. This team was ranked #1 globally in Research Allocation and Investment Management by Euromoney in 2020 and 2019. Bo started his career in New York as a Client Portfolio Manager focusing on UHNW and institutional clients within JP Morgan’s Private Bank"
     },
     {
+      "img": "img/team/Alexis.jpg",
+      "name": "Alexis Kok",
+      "job": "MIM 2022",
+      "title": "Bio"
+    },
+    {
+      "img": "img/team/Raghav.jpg",
+      "name": "Raghav Aggarwal",
+      "job": "MiM 2022",
+      "title": "Aspiring Web3 Entrepreneur and Strategy Consultant. Worked for Bain & Company and Industry 4.0 leader Addverb Technologies before LBSWorking on a stealth Web3 startup in the DApps & DeFi space"
+    },
+    {
+      "img": "img/team/Sean.jpg",
+      "name": "Sean Yu",
+      "job": "President, Imperial Blockchain Group",
+      "title": "Incoming Investment Associate at Target Global Digital Assets. Ex-Wealth Manager at Cousin’s & Co. (Chinese Family Fund).Threw Investment Banking away for Crypto"
+    },
+    {
       "img": "img/team/Kat.jpg",
       "name": "Katharina Fore",
       "job": "MBA 2022",
@@ -206,6 +215,18 @@
       "name": "Akshat Kacheria",
       "job": "MAM 2022",
       "title": "Akshat is a Strategy Consultant and Software Engineer. He worked for Barclays before joining London Business School and is currently working in Strategy at Fayre Laboratories (NFT Marketplace for brands)"
+    },
+    {
+      "img": "img/team/Grace.jpg",
+      "name": "Grace Guan",
+      "job": "MBA 2023",
+      "title": "Grace is currently at Fabric Ventures and an MBA student at London Business School. Before LBS, she spent 5 years at Google & YouTube across content partnerships & business operations roles, and led marketing at Commonwealth Labs (decentralized governance platform). She graduated from the University of Pennsylvania with a degree in PPE."
+    },
+    {
+      "img": "img/team/Shwetabh.jpg",
+      "name": "Shwetabh Sameer",
+      "job": "MiF 2022",
+      "title": "Shwetabh is a Masters in Finance student at London Business School. He has over 7 years of experience in the financial and technology sector. He holds a bachelor’s degree in Mechanical Engineering from BITS Pilani and a post graduate degree in Data Science from Purdue University. He is also a CFA, FRM and CIPM charter holder."
     }
   ],
   "Contact": {

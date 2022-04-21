@@ -18,6 +18,9 @@ export const Speakers = (props) => {
                   <Image title={d.title} largeImage={d.img} smallImage={d.img} />
                   </div>                  
                   <div className='service-desc'>
+                  <a href={d.linkedIn} target="_blank" rel="noreferrer">
+                      <i className='fa fa-linkedin'></i>
+                    </a>
                     <h3>{d.name}</h3>
                     <p>{d.text}</p>
                   </div>
