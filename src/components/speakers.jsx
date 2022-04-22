@@ -13,7 +13,7 @@ export const Speakers = (props) => {
         <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className='col-md-4'>
+                <div key={`${d.name}-${i}`} className='col-md-3 col-sm-5'>
                   <div className='speakers-image'>
                   <Image title={d.title} largeImage={d.img} smallImage={d.img} />
                   </div>                  

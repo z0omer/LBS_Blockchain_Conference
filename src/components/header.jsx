@@ -13,7 +13,7 @@ export const Header = (props) => {
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <h4><p>{props.data ? props.data.dates : 'Loading'}</p></h4>
                 <a
-                  href='#agenda'
+                  href='#schedule'
                   className='btn btn-custom btn-lg page-scroll'
                 >
                   Learn More

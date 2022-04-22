@@ -239,33 +239,9 @@
     "twitter": "https://twitter.com/lbsblockchain",
     "linkedIn": "https://www.linkedin.com/company/lbs-blockchain-association"
   },
-  "Agenda": [
+  "Schedule": [
     {
-      "img": "img/agenda/day1.jpg",
-      "title": "Day 1: Venture Capital and Fundraising",
-      "text": "April 26, 2022",
-      "event1": "",
-      "event2": "",
-      "event3": "",
-      "event4": ""
-    },
-    {
-      "img": "img/agenda/day2.jpg",
-      "title": "Day 2: Decentralised Finance",
-      "text": "April 27, 2022",
-      "event1": "",
-      "event2": "",
-      "event3": "",
-      "event4": ""
-    },
-    {
-      "img": "img/agenda/day3.jpg",
-      "title": "Day 3: Gaming, NFTs and Metaverse",
-      "text": "April 28, 2022",
-      "event1": "",
-      "event2": "",
-      "event3": "",
-      "event4": ""
+      "img": "img/schedule/Schedule.jpg"
     }
   ],
   "Location": {
