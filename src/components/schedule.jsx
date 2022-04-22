@@ -8,7 +8,7 @@ export const Schedule = (props) => {
         <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.title}-${i}`} className='.col-xs-11 col-md-11'>
+                <div key={`${d.title}-${i}`} className='col-md-11'>
                   <div className='schedule-image'>
                   <img src={d.img} alt="schedule item"/>
                   </div>

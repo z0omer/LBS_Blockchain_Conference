@@ -259,11 +259,11 @@ header .intro-text {
 
 .schedule-image,
 .schedule-image img {
-  width: 800px;
-  height: 600px;
+  /* width: 800px;
+  height: 600px; */
   position: relative;
   color: #fff;
-  padding-left: 80px;
+  /* padding-left: 60px; */
   margin-left: 40px;
   margin-bottom: 20px;
 }
@@ -335,6 +335,7 @@ header .intro-text {
 .speakers-image,
 .speakers-image img {
   display: block;
+  position: relative;
   width: 250px;
   height: 250px;
 }
