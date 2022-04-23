@@ -242,6 +242,9 @@
   "Schedule": [
     {
       "img": "img/schedule/Schedule.jpg"
+    },
+    {
+      "img": "img/schedule/schedule_details.jpg"
     }
   ],
   "Location": {
