@@ -27,10 +27,24 @@
     },
     {
       "img": "img/speakers/JohnPatrick.jpg",
+      "name": "Edward Adlard",
+      "text": "Trilitech",
+      "linkedIn": "https://www.linkedin.com/in/edwardadlard/",
+      "title": "Global Head of Business Development and Adoption, Tezos Ecosystem"
+    },
+    {
+      "img": "img/speakers/JohnPatrick.jpg",
       "name": "John Patrick Mullin",
       "text": "MANTRADAO",
       "linkedIn": "https://www.linkedin.com/in/john-patrick-mullin/",
       "title": "CEO and Co-Founder of MANTRADAO & soma.finance "
+    },
+    {
+      "img": "img/speakers/Adi.jpg",
+      "name": "Adi Ben-Ari",
+      "text": "Applied Blockchain",
+      "linkedIn": "https://www.linkedin.com/in/adibenari/",
+      "title": "Founder & CEO at Applied Blockchain"
     },
     {
       "img": "img/speakers/WillCorkin.jpg",
@@ -47,11 +61,11 @@
       "title": "Lending Oversight, MakerDAO "
     },
     {
-      "img": "img/speakers/Alex.jpg",
-      "name": "Alex Ryvkin",
-      "text": "Copper",
-      "linkedIn": "https://www.linkedin.com/in/alexryvkin/",
-      "title": "CPO Copper"
+      "img": "img/speakers/Louise.jpg",
+      "name": "Louise Mercer",
+      "text": "Everledger",
+      "linkedIn": "https://www.linkedin.com/in/louise-mercer/",
+      "title": "Chief Experience Officer at Everledger - Digital Transformation "
     },
     {
       "img": "img/speakers/Gary.jpg",
@@ -89,6 +103,13 @@
       "title": "Head of DeFi Research, Polygon Technology"
     },
     {
+      "img": "img/speakers/Pavir.jpg",
+      "name": "Pavir Patel",
+      "text": "Bitpanda",
+      "linkedIn": "https://www.linkedin.com/in/pavir/",
+      "title": "Chief of Staff @Bitpanda Pro"
+    },
+    {
       "img": "img/speakers/John.jpg",
       "name": "John Connolly ",
       "text": "Elliptic",
@@ -122,6 +143,13 @@
       "text": "Token Engineering Commons ",
       "linkedIn": "https://www.linkedin.com/in/eduardovegap/",
       "title": ""
+    },
+    {
+      "img": "img/speakers/Avi.jpg",
+      "name": "Avi Zurlo",
+      "text": "Delphi Digital",
+      "linkedIn": "https://www.linkedin.com/in/avi-zurlo-2b0760104/",
+      "title": "Ventures Associate at Delphi Digital"
     },
     {
       "img": "img/speakers/Moritz.jpg",
