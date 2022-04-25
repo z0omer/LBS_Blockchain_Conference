@@ -26,7 +26,7 @@
       "title": "KEYNOTE SPEAKER"
     },
     {
-      "img": "img/speakers/JohnPatrick.jpg",
+      "img": "img/speakers/Edward.jpg",
       "name": "Edward Adlard",
       "text": "Trilitech",
       "linkedIn": "https://www.linkedin.com/in/edwardadlard/",
@@ -154,9 +154,9 @@
     {
       "img": "img/speakers/Moritz.jpg",
       "name": "Moritz Seibert ",
-      "text": "Exponential Age Asset Management ",
-      "linkedIn": "https://www.linkedin.com/in/mseibert/",
-      "title": "CIO at Exponential Age Asset Management "
+      "text": "Real Vision",
+      "linkedIn": "https://www.linkedin.com/in/moritz-heiden-45a90548/",
+      "title": "CTO at Exponential Age Asset Management, Co-Head Digital Innovation Strategy at Real Vision"
     }
   ],
   "Team": [
