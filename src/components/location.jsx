@@ -12,10 +12,14 @@ export const Location = (props) => {
               <h2>London Business School</h2>
               <h3>Regent's Park, London NW1 4SA</h3>
               <p>{props.data ? props.data.paragraph : "loading..."}</p>
+              <div className="col-xs-12 col-md-12">
+                {" "}
+                <img src="img/rooms.jpg" className="img-responsive" alt="" />{" "}
               </div>
             </div>
           </div>
         </div>
       </div>
+    </div>
   );
 };

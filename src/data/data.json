@@ -199,6 +199,12 @@
       "title": "Aspiring Web3 Entrepreneur and Strategy Consultant. Worked for Bain & Company and Industry 4.0 leader Addverb Technologies before LBSWorking on a stealth Web3 startup in the DApps & DeFi space"
     },
     {
+      "img": "img/team/David.jpg",
+      "name": "David Kakauridze",
+      "job": "MBA 2023",
+      "title": "David is the VP of Marketing at LBS Blockchain Society. He has 9+ years of experience working in Banking Technology"
+    },
+    {
       "img": "img/team/Sean.jpg",
       "name": "Sean Yu",
       "job": "President, Imperial Blockchain Group",
@@ -208,7 +214,7 @@
       "img": "img/team/Kat.jpg",
       "name": "Katharina Fore",
       "job": "MBA 2022",
-      "title": "Bio"
+      "title": "Kat is Head of Events for the LBS Blockchain Club and was among the students that founded the club. Her interest in blockchain spiked in May 2021, when she began a summer internship at Wintermute, one of the largest algorithmic market makers in the digital assets markets. She continued to work at Wintermute alongside the second year of her MBA and will join the company full-time as a Product Manager upon graduation."
     },
     {
       "img": "img/team/Akshat.jpg",
@@ -248,6 +254,6 @@
     }
   ],
   "Location": {
-    "paragraph": "Conference events will be held at London Business School’s Sussex Place campus. If you would like further help with directions, please email us at blockchain@london.edu"
+    "paragraph": "Conference events will be held at London Business School’s Sussex Place campus. The conference events will be held from room LT7 (highlighted in the image below). The networking lunch will be held from Park Restaurants. If you would like further help with directions, please email us at blockchain@london.edu"
   }
 }
